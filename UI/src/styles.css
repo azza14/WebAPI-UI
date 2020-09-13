@@ -1,11 +1,21 @@
 body{
-  background-color: #04c582;;
+  background: -webkit-linear-gradient(bottom, #0250c5, #d43f8d);
+  width: 100%;
+  min-height: 100vh;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -moz-box;
+  display: -ms-flexbox;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
 }
 
 input.form-control,input.form-control:focus{
-  background-color: #636b7b;
-  color: #fff;
-  border: 1px solid #636b7b;
+  background-color: #e6e6e6;
+  color: #686868;
+  border: 1px solid #e6e6e6;
 
 }
 
@@ -15,7 +25,7 @@ input.form-control:focus{
 
 button[type=submit].btn{
   border-radius: 20px;
-  background-color: #04c582;
+  background-color: #d33f8d;
   color: #fff;
 }
 
@@ -36,7 +46,6 @@ div.form-group.required>label:first-child:after{
 
 .wrapper {
   display: flex;
-  align-items: center;
   flex-direction: column;
   justify-content: center;
   width: 100%;
@@ -46,7 +55,7 @@ div.form-group.required>label:first-child:after{
 .wrapped-div {
   -webkit-border-radius: 10px 10px 10px 10px;
   border-radius: 10px 10px 10px 10px;
-  background: #2e3137;
+  background: #ffffff;
   padding: 30px;
   width: 90%;
   max-width: 450px;
@@ -62,7 +71,7 @@ div.form-group.required>label:first-child:after{
 }
 
 .tab-header h2.active {
-  color: #fff;
+  color: #333333;
   border-bottom: 4px solid #fff;
 }
 

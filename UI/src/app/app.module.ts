@@ -8,12 +8,18 @@ import { RegistrationComponent } from './user/registration/registration.componen
 import{ToastrModule} from 'ngx-toastr'
 import { HttpClientModule } from '@angular/common/http';
 import { LoginComponent } from './user/login/login.component';
+import { NavBarComponent } from './nav-bar/nav-bar.component';
+import { NotFoundPageComponent } from './not-found-page/not-found-page.component';
+import { HomeComponent } from './home/home.component';
 @NgModule({
   declarations: [
     AppComponent,
     UserComponent,
     RegistrationComponent,
-    LoginComponent
+    LoginComponent,
+    NavBarComponent,
+    NotFoundPageComponent,
+    HomeComponent
   ],
   imports: [
     BrowserModule,
