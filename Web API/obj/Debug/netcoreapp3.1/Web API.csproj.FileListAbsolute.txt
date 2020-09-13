@@ -1,0 +1,57 @@
+E:\Angular\TaskBUE\Web API\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\Angular\TaskBUE\Web API\bin\Debug\netcoreapp3.1\appsettings.json
+E:\Angular\TaskBUE\Web API\bin\Debug\netcoreapp3.1\efpt.config.json
+E:\Angular\TaskBUE\Web API\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+E:\Angular\TaskBUE\Web API\bin\Debug\netcoreapp3.1\Web API.exe
+E:\Angular\TaskBUE\Web API\bin\Debug\netcoreapp3.1\Web API.deps.json
+E:\Angular\TaskBUE\Web API\bin\Debug\netcoreapp3.1\Web API.runtimeconfig.json
+E:\Angular\TaskBUE\Web API\bin\Debug\netcoreapp3.1\Web API.runtimeconfig.dev.json
+E:\Angular\TaskBUE\Web API\bin\Debug\netcoreapp3.1\Web API.dll
+E:\Angular\TaskBUE\Web API\bin\Debug\netcoreapp3.1\Web API.pdb
+E:\Angular\TaskBUE\Web API\bin\Debug\netcoreapp3.1\EntityFramework.SqlServer.dll
+E:\Angular\TaskBUE\Web API\bin\Debug\netcoreapp3.1\EntityFramework.dll
+E:\Angular\TaskBUE\Web API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+E:\Angular\TaskBUE\Web API\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Angular\TaskBUE\Web API\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+E:\Angular\TaskBUE\Web API\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Angular\TaskBUE\Web API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+E:\Angular\TaskBUE\Web API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Angular\TaskBUE\Web API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+E:\Angular\TaskBUE\Web API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Angular\TaskBUE\Web API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Angular\TaskBUE\Web API\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+E:\Angular\TaskBUE\Web API\bin\Debug\netcoreapp3.1\System.CodeDom.dll
+E:\Angular\TaskBUE\Web API\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+E:\Angular\TaskBUE\Web API\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+E:\Angular\TaskBUE\Web API\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+E:\Angular\TaskBUE\Web API\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+E:\Angular\TaskBUE\Web API\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+E:\Angular\TaskBUE\Web API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+E:\Angular\TaskBUE\Web API\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+E:\Angular\TaskBUE\Web API\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+E:\Angular\TaskBUE\Web API\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+E:\Angular\TaskBUE\Web API\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Angular\TaskBUE\Web API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Angular\TaskBUE\Web API\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+E:\Angular\TaskBUE\Web API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+E:\Angular\TaskBUE\Web API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\Angular\TaskBUE\Web API\obj\Debug\netcoreapp3.1\Web API.AssemblyInfoInputs.cache
+E:\Angular\TaskBUE\Web API\obj\Debug\netcoreapp3.1\Web API.AssemblyInfo.cs
+E:\Angular\TaskBUE\Web API\obj\Debug\netcoreapp3.1\Web API.RazorTargetAssemblyInfo.cache
+E:\Angular\TaskBUE\Web API\obj\Debug\netcoreapp3.1\Web API.csproj.CopyComplete
+E:\Angular\TaskBUE\Web API\obj\Debug\netcoreapp3.1\staticwebassets\Web API.StaticWebAssets.Manifest.cache
+E:\Angular\TaskBUE\Web API\obj\Debug\netcoreapp3.1\staticwebassets\Web API.StaticWebAssets.xml
+E:\Angular\TaskBUE\Web API\obj\Debug\netcoreapp3.1\Web API.dll
+E:\Angular\TaskBUE\Web API\obj\Debug\netcoreapp3.1\Web API.pdb
+E:\Angular\TaskBUE\Web API\obj\Debug\netcoreapp3.1\Web API.genruntimeconfig.cache
+E:\Angular\TaskBUE\Web API\obj\Debug\netcoreapp3.1\Web API.csprojAssemblyReference.cache
+E:\Angular\TaskBUE\Web API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\Angular\TaskBUE\Web API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Angular\TaskBUE\Web API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+E:\Angular\TaskBUE\Web API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+E:\Angular\TaskBUE\Web API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Angular\TaskBUE\Web API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+E:\Angular\TaskBUE\Web API\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\Angular\TaskBUE\Web API\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+E:\Angular\TaskBUE\Web API\obj\Debug\netcoreapp3.1\Web API.csproj.CoreCompileInputs.cache
+E:\Angular\TaskBUE\Web API\obj\Debug\netcoreapp3.1\Web API.MvcApplicationPartsAssemblyInfo.cache
